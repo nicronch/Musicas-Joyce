@@ -1,0 +1,42 @@
+
+body {
+    color: white;
+    background: rgb(179, 3, 147);
+    margin: 0px;
+}
+
+header {
+    border: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(46, 249, 107);
+}
+
+.chamada {
+    background: rgb(247, 86, 209);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto {
+    margin-right: 4%;
+}
+
+img {
+    height: 400px;
+}
+
+.videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
